@@ -9,7 +9,7 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/DARK-COBRA/DARKCOBRA/",
+  "repository": "https://github.com/hellboi-atul/DARKCOBRA-1/",
   "website": "https://github.com/DARK-COBRA/DARKCOBRA/",
   "success_url": "https://t.me/Dark_cobra_support",
   "stack": "container",
@@ -189,7 +189,7 @@
     },
     "EMOJI_TO_DISPLAY_IN_HELP": {
       "description": "Set The emojies You Want to Add In Help Command You Can Add Multiple Emojies too!!",
-      "value": "📨",
+      "value": "🙂",
       "required": true
     },
     "SUDO_USERS": {
